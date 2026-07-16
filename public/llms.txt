@@ -310,6 +310,7 @@ Each ecosystem section lists the smart-contract libraries and language-specific 
 
 - [Overview](https://docs.openzeppelin.com/contracts-sui/1.x)
 - [Learn — Role Based Access Control](https://docs.openzeppelin.com/contracts-sui/1.x/guides/access-control)
+- [Learn — Delegated Spending](https://docs.openzeppelin.com/contracts-sui/1.x/guides/delegated-spending)
 - [Packages — Integer Math](https://docs.openzeppelin.com/contracts-sui/1.x/math)
 - [Packages — Fixed-Point Math](https://docs.openzeppelin.com/contracts-sui/1.x/fixed-point)
 - [Packages — Access — Overview](https://docs.openzeppelin.com/contracts-sui/1.x/access)
